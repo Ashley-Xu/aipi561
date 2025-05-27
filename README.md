@@ -19,10 +19,10 @@ Provide Sincere Encouragement: Crucially, Em offers brief, gentle understanding 
 The goal is not to replace planning tools but to provide the scaffolding and dopamine boost needed to overcome initiation paralysis and build momentum.
 
 ## Timeline
-Week 1: Ideation. Problem/motivation + solution description + Timeline
-Week 2: Architecture/Component Diagram
-Week 3: Frontend application (Flask, HTML, and Tailwind CSS)
-Week 4: Use Azure OpenAI to breakdown user-inputted tasks and device action steps
-Week 5: Auth (Secure login via Azure AD)
-Week 6: Deployment and CI/CD
+* Week 1: Ideation. Problem/motivation + solution description + Timeline
+* Week 2: Architecture/Component Diagram
+* Week 3: Frontend application (Flask, HTML, and Tailwind CSS)
+* Week 4: Use Azure OpenAI to breakdown user-inputted tasks and device action steps
+* Week 5: Auth (Secure login via Azure AD)
+* Week 6: Deployment and CI/CD
 
