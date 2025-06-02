@@ -26,3 +26,16 @@ The goal is not to replace planning tools but to provide the scaffolding and dop
 * Week 5: Auth (Secure login via Azure AD)
 * Week 6: Deployment and CI/CD
 
+
+## Week 2 UPDATE
+
+### Architecture Diagrams
+
+* Overall Architecture:
+![image](https://github.com/user-attachments/assets/c54ef0b0-5a9a-4188-9154-0e425791c133)
+* Component Breakdown
+<img width="822" alt="image" src="https://github.com/user-attachments/assets/eb0d34ee-5a15-4d10-a006-b0275257a2d2" />
+
+
+* Task Decomposition Flow:
+<img width="822" alt="image" src="https://github.com/user-attachments/assets/30389517-c46e-4b31-9dc5-7310d0472d1b" />
