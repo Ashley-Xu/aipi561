@@ -1,5 +1,5 @@
-# aipi561 ADHD Helper 🤖
-AHDH Helper is a web application specifically designed to support professionals and students with ADHD. It aims to mitigate executive function challenges by providing AI-driven task decomposition, prioritization assistance, and positive reinforcement.
+# aipi561 ADHD Guardian 🤖
+AHDH Guardian is a web application specifically designed to support professionals and students with ADHD. It aims to mitigate executive function challenges by providing AI-driven task decomposition, prioritization assistance, and positive reinforcement.
 
 ## Motivation:
 As someone with ADHD myself, along with an estimated 4-5% of adults worldwide with ADHD (approximately 366 million people), initiating and completing tasks can feel like hitting an invisible barrier. This executive function challenge involves difficulties with: 
@@ -9,7 +9,7 @@ As someone with ADHD myself, along with an estimated 4-5% of adults worldwide wi
 * Overcoming the mental inertia required to simply start
   
 ## Solution:
-ADHD Helper acts as a non-judgmental, supportive co-pilot specifically designed to help neurodivergent individuals navigate executive function hurdles. 
+ADHD Guardian acts as a non-judgmental, supportive co-pilot specifically designed to help neurodivergent individuals navigate executive function hurdles. 
 
 The application leverages Azure OpenAI (GPT-4o) through an AI persona named "Em" to:
 
