@@ -39,3 +39,43 @@ The goal is not to replace planning tools but to provide the scaffolding and dop
 
 * Task Decomposition Flow:
 <img width="822" alt="image" src="https://github.com/user-attachments/assets/30389517-c46e-4b31-9dc5-7310d0472d1b" />
+
+
+## Week 3 & 4 UPDATE
+
+### Developed the front end and backend locally
+
+
+Create and activate a virtual environment:
+
+# Windows
+python -m venv venv
+.\venv\Scripts\activate
+
+# macOS/Linux
+python -m venv venv
+source venv/bin/activate
+Install dependencies:
+
+pip install -r requirements.txt
+Configure your .env file:
+
+# Azure OpenAI
+AZURE_OPENAI_ENDPOINT="YOUR_AZURE_OPENAI_ENDPOINT"
+AZURE_OPENAI_KEY="YOUR_AZURE_OPENAI_KEY"
+AZURE_OPENAI_DEPLOYMENT_NAME="YOUR_MODEL_DEPLOYMENT_NAME"
+
+# Azure AD App Registration
+CLIENT_ID="YOUR_APP_REGISTRATION_CLIENT_ID"
+CLIENT_SECRET="YOUR_APP_REGISTRATION_CLIENT_SECRET_VALUE"
+AUTHORITY="https://login.microsoftonline.com/common" # Or your specific tenant
+REDIRECT_PATH="/getAToken"
+SCOPE="User.Read Calendars.Read Tasks.Read email" # Required scopes
+
+# Flask Session
+SECRET_KEY="generate-a-strong-random-secret-key-here"
+Run the application:
+
+flask run --port 5001
+Access the application at http://localhost:5001
+
