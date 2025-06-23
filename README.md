@@ -79,3 +79,9 @@ Run the application:
 flask run --port 5001
 Access the application at http://localhost:5001
 
+## Week 5 UPDATE
+
+Deployed the Application and recorded final project video: https://youtu.be/mtn1pZkRc00
+
+
+
